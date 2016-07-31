@@ -1,0 +1,8 @@
+F:\Project\Calculator\UI\Calculator.WinFormUI\bin\Debug\Calculator.WinFormUI.exe.config
+F:\Project\Calculator\UI\Calculator.WinFormUI\bin\Debug\Calculator.WinFormUI.exe
+F:\Project\Calculator\UI\Calculator.WinFormUI\bin\Debug\Calculator.WinFormUI.pdb
+F:\Project\Calculator\UI\Calculator.WinFormUI\obj\Debug\Calculator.WinFormUI.csprojResolveAssemblyReference.cache
+F:\Project\Calculator\UI\Calculator.WinFormUI\obj\Debug\Calculator.WinFormUI.Properties.Resources.resources
+F:\Project\Calculator\UI\Calculator.WinFormUI\obj\Debug\Calculator.WinFormUI.csproj.GenerateResource.Cache
+F:\Project\Calculator\UI\Calculator.WinFormUI\obj\Debug\Calculator.WinFormUI.exe
+F:\Project\Calculator\UI\Calculator.WinFormUI\obj\Debug\Calculator.WinFormUI.pdb
